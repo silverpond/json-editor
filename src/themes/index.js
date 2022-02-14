@@ -26,5 +26,5 @@ export const themes = {
   // materialize: materializeTheme,
   spectre: spectreTheme,
   tailwind: tailwindTheme,
-  silveredit: silvereditTheme,
+  silveredit: silvereditTheme
 }
