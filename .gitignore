@@ -1,6 +1,6 @@
 /node_modules/
 /.idea/
-/dist/
+/dist/nonmin/
 /www/
 /e2e/
 /tests/codeceptjs/output
